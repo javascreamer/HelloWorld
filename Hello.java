@@ -2,11 +2,10 @@ public class Hello
 {
 public static void main(String args[])
 {
-   System.out.println("Hello World");
-System.out.println("Hello World");
-System.out.println("Hello World");
-System.out.println("Hello World");
-
+  for(int i=100;i<=110;i++)
+{
+    System.out.println(i);
+ }
 }
 
 }
