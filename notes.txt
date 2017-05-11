@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 048F-43B6
+
+ Directory of C:\Users\saikumar.pabboju\Desktop\Jenkins\JavaProject1
+
+11-05-2017  17:59    <DIR>          .
+11-05-2017  17:59    <DIR>          ..
+11-05-2017  17:55               415 Hello.class
+11-05-2017  17:55               111 Hello.java
+11-05-2017  17:59               180 notes.txt
+11-05-2017  17:55                12 README.md
+               4 File(s)            718 bytes
+               2 Dir(s)  233,352,822,784 bytes free
